@@ -1,0 +1,34 @@
+[
+  {
+    "ad": "Ali",
+    "soyad": "Veli",
+    "nickname": "ali",
+    "rol": "user",
+    "ip": "",
+    "port": 0
+  },
+  {
+    "ad": "Ayşe",
+    "soyad": "Demir",
+    "nickname": "ayse",
+    "rol": "user",
+    "ip": "",
+    "port": 0
+  },
+  {
+    "ad": "Admin",
+    "soyad": "Yönetici",
+    "nickname": "admin",
+    "rol": "admin",
+    "ip": "",
+    "port": 0
+  },
+  {
+    "ad": "Furkan",
+    "soyad": "Yılmaz",
+    "nickname": "furkan",
+    "rol": "user",
+    "ip": "",
+    "port": 0
+  }
+]

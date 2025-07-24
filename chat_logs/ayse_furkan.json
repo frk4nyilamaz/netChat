@@ -1,0 +1,27 @@
+{
+  "participants": [
+    "furkan",
+    "ayse"
+  ],
+  "created": 1753360711.9705744,
+  "messages": [
+    {
+      "type": "voice",
+      "sender": "furkan",
+      "filename": "1753360711969_furkan_to_ayse_2.8s.wav",
+      "duration": 2.8,
+      "timestamp": 1753360711.9705756,
+      "datetime": "2025-07-24T15:38:31.970577",
+      "played": false
+    },
+    {
+      "type": "voice",
+      "sender": "ayse",
+      "filename": "1753360728575_ayse_to_furkan_2.9s.wav",
+      "duration": "2.9",
+      "timestamp": 1753360724.6586654,
+      "datetime": "2025-07-24T15:38:44.658667",
+      "played": true
+    }
+  ]
+}
